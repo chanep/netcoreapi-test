@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.ProductsController.Get">
+            <summary>
+            Devuelve los products
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
